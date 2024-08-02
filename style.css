@@ -1,4 +1,7 @@
+body {
+    font-family: sans-serif !important;
+    padding: 0 20px;
+  }
 
-body{ text-align: center;
-    background-color: #F7E49B;}
-img{ margin-top: 20px;}
+h1{color: #89D3D1 !important; font-weight: bold !important;} 
+h3{color: #DF6899 !important}
